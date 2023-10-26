@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background: #0B666A !important;
+}
+.control-tab-btn .nav-link{
+    color:#000;
+}
+.control-tab-btn .nav-link:hover{
+    color: #000;
+}
+.table-history .table thead, tbody, tr th{
+    padding: 20px !important;
+}
+.table-history table tbody tr td{
+    font-size: 14px;
+    font-weight: 400;
+    color: gray;
+    padding: 18px !important;
+}
+
+.table-history h5{
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+.submit-btn button{
+    font-size: 14px;
+    font-weight: 600;
+    padding: 8px 40px;
+}
+.form-input .form-floating .form-control{
+    border-bottom: 4px solid #1183f5 !important;
+    border: 0px;
+    border-radius: 0px !important;
+}
+.form-input .form-floating .form-control:focus{
+    
+box-shadow: none; 
+}
